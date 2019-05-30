@@ -1,0 +1,11 @@
+name: sweet-jupy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipyparallel=6.2
+  - jupyterlab=0.35
+  - nb_conda=2.2
+  - pandas=0.24
+  - python=3.7
+
