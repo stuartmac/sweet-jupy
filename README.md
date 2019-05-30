@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stuartmac/sweet-jupy/master)
+
 # sweet-jupy
 Exploring Jupyter notebooks for research software development.
 
